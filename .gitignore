@@ -1,0 +1,21 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Local .terraform directories
+.terraform/
+
+# Lock file
+.terraform.lock.hcl
+
+# OS / IDE files
+*.DS_Store
+*.vscode/
+*.idea/
+
+# Logs
+*.log
+
+# Secrets / Credentials
+*.pem
+*.key
